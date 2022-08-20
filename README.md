@@ -1,1 +1,1 @@
-My first readme. Tips
+Update about the new tasks
